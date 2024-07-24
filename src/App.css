@@ -34,6 +34,7 @@
 .icon-wiDayHaze {
   font-size: 20rem;
   color: white;
+  font-weight: 300;
   filter: drop-shadow(0 0 0.4rem rgb(255, 238, 125))
     drop-shadow(0 0 0.75rem rgb(255, 249, 138));
 }
